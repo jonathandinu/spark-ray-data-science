@@ -10,7 +10,7 @@ Machine learning is moving from futuristic AI projects to data analysis on your 
 
 The code, slides, and exercises in this repository are (and will always be) freely available. The corresponding videos can be found on [O'Reilly Learning](https://learning.oreilly.com/videos/spark-ray-and/9780136805922/) for purchase.
 
-> If you find any errors in the code or materials, please open a Github issue in this repository or send an email to <a href="mailto:inquiries@jonathan.industries?subject=Scaling Data Science Errata">inquiries@jonathan.industries</a> 
+> If you find any errors in the code or materials, please open a Github issue in this repository or send an email to inquiries@jonathan.industries
 
 ## Skill Level
 
@@ -72,7 +72,6 @@ Lesson 4 introduces the Ray programming API, with Jonathan comparing the similar
 ### Lesson 5: Scaling AI Applications with Ray
 
 Lesson 5 discusses how Ray enables you to scale up machine learning and artificial intelligence applications with Python. The lesson starts with the general model training and evaluation process in Python. Then it turns to how Ray enables you to scale both the evaluation and tuning of our models. You see how Ray makes possible very efficient hyperparameter tuning. You also see how, once you have a trained model, Ray can serve predictions from your machine learning model. Finally, the lesson finishes with an introduction to how Ray can enable you to both deploy machine learning models to production and monitor them once they are there.
-
 
 ## LICENSE
 
