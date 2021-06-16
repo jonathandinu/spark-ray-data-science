@@ -1,6 +1,6 @@
 # Spark, Ray, and Python for Scalable Data Science
 
-> 7.5 hours of video instruction and code-along sessions to get you scaling up your data science projects using Spark, Ray, and Python.
+> 7.5 hours of video instruction and code-along sessions help you scale up your data science projects using Spark, Ray, and Python.
 
 ## Overview
 
@@ -17,7 +17,7 @@ The code, slides, and exercises in this repository are (and will always be) free
 Beginner to Intermediate
 
 ## Learn How To
-* Integrate Python and distributed computing
+* Use Python for distributed computing
 * Scale data processing with Spark
 * Conduct exploratory data analysis with PySpark
 * Utilize parallel computing with Ray
@@ -25,12 +25,12 @@ Beginner to Intermediate
 
 ## Who Should Take This Course
 
-This course is a good fit for anyone who needs to improve their fundamental understanding of scalable data processing integrated with Python for use in machine learning or artificial intelligence applications.
+This course is a good fit for anyone who needs to improve their fundamental understanding of scalable data processing with Python for use in machine learning or artificial intelligence applications.
 
 ## Prerequisites
 
 * A basic understanding of programming in Python (variables, basic control flow, simple scripts).
-* Familiarity with the vocabulary of data processing at scale, machine learning (dataset, training set, test set, model), and AI.
+* Familiarity with the vocabulary of data processing at scale, machine learning (dataset, training set, test set, model), and AI helpful but not required.
 
 ## Getting Started
 
