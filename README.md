@@ -1,5 +1,9 @@
 # Spark, Ray, and Python for Scalable Data Science
 
+[![Discord badge](https://img.shields.io/discord/830547562385113149?style=flat-square&color=%235865F2)](https://discord.gg/nbyZ6EpUum)
+[![Twitter Follow badge](https://img.shields.io/twitter/follow/psychothan?color=%231DA1F2&label=%40psychothan&style=flat-square)](https://twitter.com/psychothan)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCi0Hd3U6xb4V0ApUhAIfu9Q?color=%23FF0000&logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q)
+
 > 7.5 hours of video instruction and code-along sessions help you scale up your data science projects using Spark, Ray, and Python.
 
 ## Overview
