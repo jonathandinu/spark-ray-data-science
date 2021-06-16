@@ -6,6 +6,12 @@
 
 Machine learning is moving from futuristic AI projects to data analysis on your desk. You need to go beyond following along in discussions to coding machine learning tasks. Spark, Ray, and Python for Scalable Data Science LiveLessons show you how to scale machine learning and artificial intelligence projects using Python, Spark, and Ray.
 
+## Materials
+
+The code, slides, and exercises in this repository are (and will always be) freely available. The corresponding videos can be found on [O'Reilly Learning](https://learning.oreilly.com/videos/spark-ray-and/9780136805922/) for purchase.
+
+> If you find any errors in the code or materials, please open a Github issue in this repository or send an email to [inquiries@jonathan.industries](mailto:inquiries@jonathan.industries?subject=Scaling Data Science Errata) 
+
 ## Skill Level
 
 Beginner to Intermediate
