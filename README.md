@@ -1,6 +1,6 @@
-# Scaling Data Science in Python with Spark and Ray
+# Spark, Ray, and Python for Scalable Data Science
 
-> 7.5 Hours of Video Instruction and code-along sessions get you scaling up your data science projects using Spark, Ray, and Python.
+> 7.5 hours of video instruction and code-along sessions get you scaling up your data science projects using Spark, Ray, and Python.
 
 ## Overview
 
