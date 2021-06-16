@@ -3,6 +3,7 @@ ray_results
 
 .DS_Store
 Posts.xml
+.config
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
