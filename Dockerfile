@@ -9,7 +9,7 @@ ENV HOME /home/${NB_USER}
 COPY . ${HOME}
 USER root
 RUN chown -R ${NB_UID} ${HOME}
-RUN wget -nc -P code/data/ https://jonathans.estate/data/crossvalidated/Posts.xml
+#RUN wget -nc -P code/data/ https://jonathans.estate/data/crossvalidated/Posts.xml
 USER ${NB_USER}
 
 RUN rm -rf /home/jovyan/work
