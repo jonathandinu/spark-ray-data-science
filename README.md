@@ -14,7 +14,7 @@ Machine learning is moving from futuristic AI projects to data analysis on your 
 
 The code, slides, and exercises in this repository are (and will always be) freely available. The corresponding videos can be purchased on:
 
-- [InformIT]([http://jonathans.estate/scaling-ds-videos](https://www.informit.com/store/spark-ray-and-python-for-scalable-data-science-video-9780136805946)) (individual purchase)
+- [InformIT](https://www.informit.com/store/spark-ray-and-python-for-scalable-data-science-video-9780136805946) (individual purchase)
 - [O'Reilly Learning](https://learning.oreilly.com/videos/spark-ray-and/9780136805922/) (subscription)
 
 > If you find any errors in the code or materials, please open a Github issue in this repository or send an email to inquiries@jonathan.industries
