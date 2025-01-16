@@ -1,6 +1,5 @@
 # Spark, Ray, and Python for Scalable Data Science
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/psychothan/scaling-data-science/HEAD)
 [![Twitter Follow badge](https://img.shields.io/twitter/follow/psychothan?color=%231DA1F2&label=%40psychothan&style=flat-square)](https://twitter.com/psychothan)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCi0Hd3U6xb4V0ApUhAIfu9Q?color=%23FF0000&logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q)
 
@@ -17,7 +16,7 @@ The code, slides, and exercises in this repository are (and will always be) free
 - [InformIT](https://www.informit.com/store/spark-ray-and-python-for-scalable-data-science-video-9780136805946) (individual purchase)
 - [O'Reilly Learning](https://learning.oreilly.com/videos/spark-ray-and/9780136805922/) (subscription)
 
-> If you find any errors in the code or materials, please open a Github issue in this repository or send an email to inquiries@jonathan.industries
+> If you find any errors in the code or materials, please open a Github issue in this repository or send an email to errata@jonathandinu.com.
 
 ## Skill Level
 
